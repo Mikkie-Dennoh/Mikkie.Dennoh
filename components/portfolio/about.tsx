@@ -1,7 +1,7 @@
 "use client"
 
 import { useState } from "react"
-import { Palette, Video, Share2, Bot, Code2, Layers, ArrowLeft, ExternalLink } from "lucide-react"
+import { Palette, Video, Share2, Bot, Code2, Layers, X, ExternalLink } from "lucide-react"
 
 interface PortfolioWork {
   title: string
