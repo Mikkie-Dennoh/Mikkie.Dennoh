@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TopUpDesk</string>
+    <string name="accessibility_service_description">Types the menu replies you configured during a USSD airtime run. It only acts while an explicitly started run is active.</string>
+</resources>

@@ -16,3 +16,8 @@ node_modules/
 .next/
 .DS_Store
 .vercel
+
+# Android
+.gradle/
+**/build/
+local.properties
